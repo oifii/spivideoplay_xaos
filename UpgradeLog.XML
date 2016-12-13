@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimplePlay">
+</Property><Property Name="Solution File" Value="C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\mediafoundation\SimplePlay\SimplePlay.sln">
+</Property><Property Name="Date" Value="Wednesday, March 26, 2014">
+</Property><Property Name="Time" Value="14:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimplePlay.sln" Description="File successfully backed up as C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\mediafoundation\SimplePlay\SimplePlay.sln.old">
+</Event><Event ErrorLevel="0" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Converting project file 'C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\mediafoundation\SimplePlay\SimplePlay.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SimplePlay" Source="SimplePlay.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Done converting to new project file 'C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\mediafoundation\SimplePlay\SimplePlay.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SimplePlay" Source="SimplePlay.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SimplePlay.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimplePlay.sln" Description="Converted">
+</Event></UpgradeLog>
